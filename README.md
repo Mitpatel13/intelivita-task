@@ -1,4 +1,4 @@
-![image](https://github.com/Mitpatel13/intelivita-task/assets/54717452/3c67f8b8-a32a-4cb1-9061-f377b906d856)# intelivita-task
+# intelivita-task
 Description
 A chat app using Flutter and Firebase.
 Support login with google account, chat with any user, send text message ,update profile.
