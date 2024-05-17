@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "738231014947",
+    "project_id": "intelivita-task",
+    "storage_bucket": "intelivita-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738231014947:android:e150dc99915bb36bd64396",
+        "android_client_info": {
+          "package_name": "com.example.intelivita_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738231014947-jhrfsvfhngibvsvnmv2gkolt8f4ps76m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intelivita_task",
+            "certificate_hash": "839c764029d7111997800ca954e03fe755f6f3e1"
+          }
+        },
+        {
+          "client_id": "738231014947-k3130c45kefd2cka4logvf4mk99maopi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOHjVo14Hnkw7G3cE87Wgsovw7uQSkRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738231014947-k3130c45kefd2cka4logvf4mk99maopi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738231014947-nha48r2daqgmajeqvufhoimsu2c4ucnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.intelivitaTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
